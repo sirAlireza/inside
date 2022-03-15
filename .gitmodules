@@ -1,0 +1,3 @@
+[submodule "x/inside2"]
+	path = x/inside2
+	url = https://github.com/sirAlireza/inside.git
